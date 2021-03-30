@@ -2,66 +2,11 @@
 	
 	
 	{
-		"appIcon": "https://lh3.googleusercontent.com/CbfwEVaKZ5KCgYaUoPFUCA7hmcmWko56q69Tp_YTja7mka-8sLkBTtGyw2av1BNeT7g=s180-rw",
-		"appName": "Computer Shortcut Keys",
-		"appDescription": "Computer Shortcut keys are generally required for using to use the computers or PC users were fast.",
-		"url": "https://play.google.com/store/apps/details?id=com.shortcut.keys.computer"
-	},
-	
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/w0ljRfMgaa_N-i4hd3UvJoAaqhId1vyVycTJfsFkNK7P6zYBYLDERhVXt_ATRUhFfTM=s180-rw",
-		"appName": "Anahita HD Images",
-		"appDescription": "Huge collection of Anahita HD Wallpapers",
-		"url": "https://play.google.com/store/apps/details?id=com.wallpaper.anahita"
-	},
-
-		
-	{
-		"appIcon": "https://lh3.googleusercontent.com/sGMWgDNhtqepOGqmbQ75rYPs8SfGjuw76lWIJCx54pEK1gCHaZXT_oMRE-FF0lBUYJ2W=s180",
-		"appName": "আল্লাহর ৯৯ নাম",
-		"appDescription": "অর্থসহ ফজিলত, নামাজ শিক্ষা ও দোয়া",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.Allah"
-	},
-	
-		{
-		"appIcon": "https://lh3.googleusercontent.com/tMglHrg_eGyxlnio_hwJwzCRL5gXNgnoaLkQqDaetMtXhTvaXae-ZWdnKJ8SP3ECTbI0=s180",
-		"appName": "মহানবী (সাঃ) এর জীবনী",
-		"appDescription": "মহানবী হযরত মুহাম্মাদ (সাঃ) এর সম্পূর্ণ জীবনী",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.jiboni_Mohanobi"
-	},
-	
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/h2xKRk-puV-dlVuORAXww6f5xnZvBt7aCZJUfT55AtZ5zj1L0fL2CLXpdsFuzNDzpJY=s180-rw",
-		"appName": "কুরআনের গল্প",
-		"appDescription": "কুরআনের গল্প ও ইসলামের ঘটনা",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.Quran_er_golpo"
-	},
-
-	{
-		"appIcon": "https://lh3.googleusercontent.com/QaXZ9QWPpfWiAYbqkJ-hPNuMrSVQ2hgR7EvpFGYsRYbdxmSTP2HxYVWyFIRi5defOg=s180-rw",
-		"appName": "মিজানুর রহমান আজহারী",
-		"appDescription": "মিজানুর রহমান আজহারীর জীবনী।",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.Mizanur_Rahman_Azhari"
-	},
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/mNO8K330F3YPUIMAzKG3l5sGRTvBPrqYy6dKDXAtbIAvqANT0MwRMZmZ4Fj_Lj-j52g=s180",
-		"appName": "কবিরা গুনাহ ও মুক্তির উপায়",
-		"appDescription": "Kabira Gunah in Islam.",
-		"url": "https://play.google.com/store/apps/details?id=com.smapps.kabira_gunah"
-	},
-	
-	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/m4f2t4F2dBVWP5Qf7n2_RTH6EVdfJ-OyKH-7PhbIvwuf51JzslBM6jYyJI69YylqMz0=s180-rw",
-		"appName": "নামাজ শিক্ষা",
-		"appDescription": "নামাজ শিক্ষা ও প্রয়োজনীয় নিয়ত",
-		"url": "https://play.google.com/store/apps/details?id=com.SMapps.Namaj_shikkha"
+		"appIcon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180-rw",
+		"appName": "Facebook",
+		"appDescription": "Keeping up with friends is faster and easier than ever",
+		"url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=bn&gl=US"
 	}
-	
-	
 	
 	
 ]
